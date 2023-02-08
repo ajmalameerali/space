@@ -1,0 +1,232 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   
+}
+body{
+    margin: 0;
+    padding: 0;
+   
+
+}
+
+.header{
+   
+   background-color: #009b4e;    
+   position: fixed;
+   height: 90px;
+   width: 100%;
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+}
+.sprite{
+   position: relative;
+    width: 150px;
+    height: 50px;
+    margin-left: 50px;
+    top: 20px;
+}
+.nav a{
+    text-decoration: none;  
+    color: whitesmoke;
+    margin-left: 30px;
+    font-style: italic;
+    font-weight: 900;
+    
+
+}
+.nav {
+    margin-top: 30px;
+    
+    width: 600px;
+
+    
+}
+
+.logo{
+   width: 500px;
+   height: 50px;
+
+}
+.logo img{
+    margin: 20px;
+
+}
+.img{
+    width: 150px;
+    height: 50px;
+
+}
+.header image{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 13px;
+    top: 10px;
+}
+ .left{
+    width: 50%;
+    
+    font-size: 30px;
+    line-height: 47px;
+    letter-spacing: normal;
+    color:#ffffff;
+    font-style: italic;
+    font-weight: bold;
+}
+.left h1{
+   position: relative;
+   left: 100px;
+   top: 100px;
+}
+.left button{
+    width: 195px;
+    height: 50px;
+    position: relative;
+    top: 120px;
+    left: 100px;
+    background: #f7f7f8;
+    color: #00b13f;
+    font-size: 1ch;
+    border: none;
+}
+.main{
+    background: #00b13f;
+    width: 100%;
+    display: flex;
+}
+.right{
+    width: 50%;
+    margin-left: 50px;
+}
+
+.op{
+    height: 77px;
+    width: 100%;
+    background: rgb(8, 7, 7);
+}
+.two{
+    background: white; 
+    width: 100%;
+    height: 190px;
+    display: flex;
+   
+    
+    
+}
+   
+.a{
+    width: 50%;
+    margin-top: 40px;
+    margin-left: 424px;
+}
+.three{
+    background:white;
+    width: 100%;
+    height: 400px;
+    
+}
+video{
+    height: 342px;
+    width: 754px;
+}
+.three .b{
+    width: 100%;
+    
+    margin-left: 364px;
+}
+.three-img{
+    max-width: 100%;
+}
+
+.four{
+    background: #f7f7f8;
+}
+
+
+
+.four-img{
+    max-width: 50%;
+    margin-left: 360px;
+    height: auto;
+
+ 
+}
+footer{
+    background: #009b4e;
+    width: 100%;
+    height: 500px;
+
+}
+.five{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.five-img .img{
+
+    width: 220px;
+    height: 78px;
+    margin-left: 202px;
+    margin-top: 61px;
+}
+.five-logo{
+    margin-left: 94px;
+    margin-top: 38px;
+    
+}
+.five-logo p{
+    color: #f7f7f8;
+    margin-top: 30px;
+    size: 10px;
+}
+.five-logo .fl{
+    margin-left: 86px;
+    margin-top: 39px;
+    display: flex;
+}
+.fl img{
+    margin: 20px;
+}
+.list{
+    color: #f7f7f8;
+    margin-left: 211px;
+    margin-top: 50px;
+    
+    
+}
+.list ul{
+    text-decoration: none;
+    list-style: none;
+}
+.list li{
+    margin-top: 20px;
+}
+.ftl{
+    width: 100%;
+    height: 50px;
+    color: #f7f7f8;
+    background: #009b4e;
+    text-align: center;
+}
+.ftl h3{
+    margin-left: 50px;
+}
+.ftl h4{
+    margin-left: 30px;
+}
+.vidimg{
+    width: 708px;
+    height: 378px;
+    margin-left: 28px;
+}
+
+
+
+
+
+
+
+
